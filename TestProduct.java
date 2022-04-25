@@ -1,5 +1,3 @@
-package SecondTermWeek0;
-
 public class TestProduct {
 
     public static void main(String[] args) {
