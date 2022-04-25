@@ -1,5 +1,3 @@
-package SecondTermWeek0;
-
 public class Product {
 
     //static class variable
